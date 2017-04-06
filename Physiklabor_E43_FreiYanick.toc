@@ -1,8 +1,8 @@
 \select@language {german}
-\contentsline {section}{\numberline {1}Arbeitsgrundlagen}{4}{section.1}
-\contentsline {section}{\numberline {2}Durchf\IeC {\"u}hrung}{5}{section.2}
-\contentsline {section}{\numberline {3}Ergebnisse und Auswertung}{6}{section.3}
-\contentsline {section}{\numberline {4}Fehlerrechnung}{7}{section.4}
-\contentsline {section}{\numberline {5}Resultate und Diskussion}{8}{section.5}
+\contentsline {section}{\numberline {1}Arbeitsgrundlagen}{5}{section.1}
+\contentsline {section}{\numberline {2}Durchf\IeC {\"u}hrung}{6}{section.2}
+\contentsline {section}{\numberline {3}Ergebnisse und Auswertung}{7}{section.3}
+\contentsline {section}{\numberline {4}Fehlerrechnung}{8}{section.4}
+\contentsline {section}{\numberline {5}Resultate und Diskussion}{9}{section.5}
 \newpage 
-\contentsline {section}{\numberline {A}Literatur}{9}{appendix.A}
+\contentsline {section}{\numberline {A}Literatur}{10}{appendix.A}
