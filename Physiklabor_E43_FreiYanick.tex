@@ -1,0 +1,38 @@
+\documentclass[a4paper]{fhnwreport}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\geometry{margin=2.5 cm,tmargin=4 cm}
+
+\graphicspath{{./graphics/}{./Anhang/}}	
+
+\title{Physikbericht}
+\author{Yanick Frei}
+\date{\today}
+
+\begin{document}
+
+\fancyhead[L]{\begin{picture}(0,00)
+    \linethickness{0.025mm}
+    \put(-25.85,00){\mbox{\includegraphics[height=12mm]{fhnwlogo.pdf}}}
+  \end{picture}}
+  \fancyhead[R]{\textsf{\textbf{{E4.3: Elektromagnetische Kräfte \\ Yanick Frei; 06.06.2017}}}}
+\renewcommand{\headrulewidth}{1.0pt}
+
+%\includepdf{Deckblatt.pdf}
+\includepdf{Titelblatt.pdf}
+
+%\maketitle 
+\tableofcontents
+
+\include{Arbeitsgrundlagen}
+\include{Durchfuehrung}
+\include{Ergebnisse}
+\include{Fehlerrechnung}
+\include{Resultate}
+
+\begin{appendix}
+\bibliography{Literatur}
+\end{appendix}
+
+\end{document}

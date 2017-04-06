@@ -1,0 +1,17 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdftex 2015.3.27)  21 MAR 2017 18:39
+entering extended mode
+**C:/Users/Yanick/Documents/FHNW/6.*Semester/GlaL4/Physiklabor/Latexvorlage/fhn
+wreport.cls
+
+("C:/Users/Yanick/Documents/FHNW/6. Semester/GlaL4/Physiklabor/Latexvorlage/fhn
+wreport.cls"
+! Undefined control sequence.
+l.23 \NeedsTeXFormat
+                    {LaTeX2e}[1995/12/01]
+? 
+! Emergency stop.
+l.23 \NeedsTeXFormat
+                    {LaTeX2e}[1995/12/01]
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!

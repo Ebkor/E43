@@ -1,0 +1,17 @@
+% This file was created with JabRef 2.10.
+% Encoding: Cp1252
+
+
+@Electronic{e4,
+  Title                    = {{E4 Elektromagnetische Kraefte}},
+  Author                   = {H. Looser},
+  Language                 = {German},
+  Month                    = {2016},
+  Note                     = {{Aufgerufen am ...}},
+  Organization             = {FHNW},
+  Year                     = {Mai},
+
+  Owner                    = {Yanick},
+  Timestamp                = {2017.03.21}
+}
+
